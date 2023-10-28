@@ -1,0 +1,24 @@
+.cart{
+    top: 0;
+    padding: 35px 20px;
+    position: sticky;
+}
+
+.cart h2{
+    color: #0E161A;
+    font-weight: 500;
+    font-size: 26px;
+    text-align: center;
+    margin-bottom: 45px;
+
+}
+
+.cart p{
+    color: #0E161A;;
+    margin-bottom: 30px;
+}
+
+.total-price{
+    font-size: 22px;
+    font-weight: 500;
+}
